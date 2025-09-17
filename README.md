@@ -2,8 +2,16 @@
 
 Современный музыкальный плеер с минималистичным дизайном и бесконечным потоком качественного звука. Простота, элегантность и чистое удовольствие от прослушивания музыки.
 
+![Musisss Preview](preview-1.jpg)
+![Musisss Preview](preview-2.jpg)
+![Musisss Preview](preview-3.jpg)
+![Musisss Preview](preview-4.jpg)
+![Musisss Preview](preview-5.jpg)
+![Musisss Preview](preview-6.jpg)
+![Musisss Preview](preview-7.jpg)
+
 ![Musisss Preview](https://img.shields.io/badge/Version-1.0.0-blue.svg)
-![Next.js](https://img.shields.io/badge/Next.js-14.0.0-black.svg)
+![Next.js](https://img.shields.io/badge/Next.js-15.5.2-black.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
