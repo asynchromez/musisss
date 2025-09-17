@@ -60,22 +60,6 @@ npm start
 **Добавляйте в избранное понравившиеся треки**
 
 
-## 📁 Структура проекта
-src/
-├── app/                 # Next.js App Router
-│   ├── about/          # Страница "О нас"
-│   ├── charts/         # Чарты и рейтинги
-│   ├── contact/        # Контакты
-│   └── player/         # Основной плеер
-├── components/         # React компоненты
-│   ├── GlassHeader.tsx # Стеклянный хедер
-│   ├── PlayerControls.tsx # Контролы плеера
-│   └── TrackList.tsx   # Список треков
-├── hooks/              # Кастомные хуки
-│   ├── useAudioPlayer.ts # Аудио плеер
-│   └── useFavorites.ts # Управление избранным
-└── types/              # TypeScript типы
-
 ## 🎨 Дизайн
 Musisss использует минималистичный дизайн с акцентом на контент:
 
