@@ -1,0 +1,5 @@
+Добавьте сюда ваши аудиофайлы:
+1.wav, 2.wav, 3.wav, ... 15.wav
+
+Также добавьте папку covers с обложками:
+covers/1.jpg, covers/2.jpg, covers/3.jpg, ... covers/15.jpg
